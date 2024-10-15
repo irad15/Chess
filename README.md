@@ -4,7 +4,7 @@ This project is a Python-based chess pygame that allows players to either play a
 
 ## Features
 
-- **All chess logic works well**: including: en-passant, pawn double foreward, checks, pins, castling, pawn promotion.
+- **All chess logic works well**: including: en-passant, pawn double forward, checks, pins, castling, pawn promotion.
 - **AI opponent using Minimax Algorithm**: The AI bot is capable of playing at an intermediate level using the minimax algorithm with alpha-beta pruning.
 - **Two Player Mode (Hot Seat)**: Play with a friend in a local hot seat mode.
 - **Graphical User Interface**: The game is visually represented with a simple and clean Pygame interface, featuring buttons for interaction.
